@@ -127,7 +127,7 @@ header nav ul li a:hover {
     }
     .about-section .about-text p {
         font-size: 20px;
-        width: 60%;
+        width: 65%;
     }
 
 
@@ -245,6 +245,30 @@ color: white;
         flex-direction: column-reverse;
         align-items: center;
         justify-content: center;
+    }
+
+    header nav ul {
+        width: fit-content;
+        gap: 8px;
+        
+    }
+    
+    header nav ul li a {
+        font-size: medium;
+    }
+    .hero-section .hero-pic{
+        margin-top: 100px;
+        height: 250px;
+        width: 250px;
+    }
+    .hero-section .hero-pic img{
+        height: 100%;
+        width: 100%;
+        border-radius: 0px;
+    }
+    .hero-section, .about-section, .projects-section, .contact-section {
+        width: 100%;
+        height: fit-content;
     }
 }
 
