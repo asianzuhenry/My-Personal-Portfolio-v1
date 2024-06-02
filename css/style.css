@@ -234,9 +234,10 @@ header nav ul li a:hover {
     flex-wrap: wrap;
 }
 .contact-section .contact-links li {
-    width: 200px;
-    height: 50px;
+    width: 100px;
+    height: 100px;
     margin: 20px;
+    padding: 20px;
     border-radius: 8px;
     background-color: #110f96;
     list-style: none;
