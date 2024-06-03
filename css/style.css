@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #01000f;
+    background: linear-gradient(to top left, #03002e, #0a0097,rgb(0, 255, 234));
     color: white;
     font-family: "Dosis", sans-serif;
 }
