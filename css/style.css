@@ -246,6 +246,10 @@ header nav ul li a:hover {
     justify-content: center;
     cursor: pointer;
 }
+.contact-section .contact-links li a img.git {
+    width: 80px;
+    height: 80px;
+}
 .contact-section .contact-links a {
 text-decoration: none;
 color: white;
